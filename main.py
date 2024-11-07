@@ -30,9 +30,6 @@ def count_bingo(board, numbers):
 
     return line_count
 
-
-
-
 N, K = [int(c) for c in input().split()]
 board = [[int(c) for c in input().split()] for _ in range(N)]
 numbers = [int(c) for c in input().split()]
