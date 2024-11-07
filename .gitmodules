@@ -1,3 +1,3 @@
 [submodule "pyza_checker"]
 	path = pyza_checker
-	url = ./pyza_checker
+	url = https://github.com/170523/pyza_checker_library
