@@ -1,0 +1,3 @@
+[submodule "pyza_checker"]
+	path = pyza_checker
+	url = ./pyza_checker
